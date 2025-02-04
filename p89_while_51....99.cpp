@@ -1,15 +1,13 @@
-// do while 10.....1
+// while 51...99
 #include<iostream>
 using namespace std;
 int main()
 {
     int i;
-    i=10;
-    do
+    i=55;
+    while(i<=99)
     {
-        cout<<i--;
-
+        cout<<i++;
     }
-    while(i>=1);
     return 0;
 }
