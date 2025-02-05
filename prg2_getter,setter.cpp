@@ -54,4 +54,4 @@ int main()
    cout<<"\n divi  "<<probl1.dodiv();
 
    return 0;
-}   
+}
